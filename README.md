@@ -18,6 +18,7 @@
 <img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark&perline=2" />
 </p>
 
+</td><td valign="top" width="50%">
 
 ### <div align="center"> Backend </div>
 
