@@ -1,8 +1,5 @@
-<div style="margin-top:50px"></div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8BE9FD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Lemos;I'm+22+years+old;I'm+from+Ribeirão+Pires,+SP;I'm+an+devops+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Banner](https://raw.githubusercontent.com/ThiagoLemoos/ThiagoLemoos/main/images/banner.png)
-
-<div style="margin-bottom:100px"></div>
 
 # 📝Sobre Mim
 
