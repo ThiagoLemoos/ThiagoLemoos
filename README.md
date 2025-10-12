@@ -3,7 +3,7 @@
 
 # 📝Sobre Mim
 
-<h3 align="center">Assistente de Infraestrutura há 2 anos | Formado em Analise e Desenvolvimento de Sistemas</a></h3>
+<h3 align="center">Analista de Infraestrutura há 3 anos | Formado em Analise e Desenvolvimento de Sistemas | Estudante de Pós Graduação em DevOps e Arquitetura Cloud</a></h3>
 <br/><br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Tecnologias Que Ja Futuquei
