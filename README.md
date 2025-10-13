@@ -12,7 +12,7 @@
 
 ### <div align="center"> Frontend </div>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="50%">
@@ -20,7 +20,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,python,postgres,nodejs&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=mysql,python,postgres,nodejs,java,javascript,spring,mongo&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="50%">
