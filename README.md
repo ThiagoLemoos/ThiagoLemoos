@@ -8,14 +8,14 @@
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Tecnologias Que Ja Futuquei
 
-<table align="center"><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="33%">
 
 ### <div align="center"> Frontend </div>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark&perline=4" />
 </p>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 ### <div align="center"> Backend </div>
 
@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,python,postgres,nodejs,java,javascript,spring,mongo&theme=dark&perline=4" />
 </p>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 ### <div align="center"> Ferramentas </div>
 
