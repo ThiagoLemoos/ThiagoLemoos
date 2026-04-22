@@ -1,54 +1,91 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8BE9FD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thiago+Lemos;I'm+22+years+old;I'm+from+Ribeirão+Pires,+SP;I'm+an+devops+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8BE9FD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Thiago+Lemos;DevOps+%7C+Cloud+Engineer;Kubernetes+%7C+Terraform+%7C+AWS;Observability+%7C+CI%2FCD;Welcome!+:%29)](https://git.io/typing-svg)
 
+---
 
-# 📝Sobre Mim
+# 🚀 Sobre Mim
 
-<h3 align="center">Analista de Infraestrutura há mais de 3 anos | Formado em Analise e Desenvolvimento de Sistemas | Estudante de Pós Graduação em DevOps e Arquitetura Cloud</a></h3>
-<br/><br/>
+💻 DevOps / Cloud Engineer  
+📍 São Paulo - Brasil  
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+📚 Pós-graduação em DevOps & Arquitetura Cloud  
 
-# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Tecnologias Que Ja Futuquei
+Tenho mais de 3 anos de experiência com infraestrutura, atuando com automação, cloud e ambientes escaláveis.  
+Focado em **Kubernetes, Terraform, CI/CD e Observabilidade**, sempre buscando melhorar confiabilidade e performance dos sistemas.
 
-<table align="center"><tr><td valign="top" width="33%">
+---
 
-### <div align="center"> Frontend </div>
+# ⚙️ Tech Stack
+
+## ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,ansible,linux&theme=dark&perline=6" />
+</p>
+
+## 🔄 CI/CD & Versionamento
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=6" />
+</p>
+
+## 📊 Observabilidade & Monitoramento
+<p align="center">
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,datadog&theme=dark&perline=6" />
+</p>
+
+## 💻 Backend & Dados
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,nodejs,java,spring,postgres,mongo,mysql&theme=dark&perline=7" />
+</p>
+
+## 🎨 Frontend (base)
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark&perline=4" />
 </p>
 
-</td><td valign="top" width="33%">
+---
 
-### <div align="center"> Backend </div>
+# 🔥 Projetos em Destaque
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,python,postgres,nodejs,java,javascript,spring,mongo&theme=dark&perline=4" />
-</p>
+### 🚀 ToggleMaster
+Plataforma cloud-native baseada em microsserviços com foco em feature flags.
 
-</td><td valign="top" width="33%">
+**Stack:**
+- Kubernetes (EKS)
+- Terraform (IaC)
+- GitOps com ArgoCD
+- CI/CD com GitHub Actions
+- Observabilidade com Prometheus, Grafana, Loki e OpenTelemetry
+- APM (Datadog / New Relic)
+- Self-Healing com automações no Kubernetes
 
-### <div align="center"> Ferramentas </div>
+**Destaques:**
+- Arquitetura com 5 microsserviços
+- Distributed tracing (OpenTelemetry)
+- Alertas inteligentes + integração com incident management
+- Automação de resposta a falhas (self-healing)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,git,github,terraform,ansible,docker,linux,vscode&theme=dark&perline=4" />
-</p>
+---
 
-</td></tr></table>
-<br/><br/>
-
-# 📊 Estatisticas do GitHub
+# 📊 GitHub Stats
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoLemoos&theme=city_lights"/>
 </p>
-<br/><br/>
 
-# 📫 Vamos Nos Conectar? 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoLemoos&theme=city_lights"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoLemoos&theme=city_lights"/>
+</p>
+
+---
+
+# 📫 Contato
 
 <div align="center">
-<a href="https://www.linkedin.com/in/thiagolemoos/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-</a>   
-</div>  
-<br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoLemoos&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoLemoos&theme=city_lights)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagolemoos/)
+
+</div>
+
+---
+
+⭐ Sempre aberto a aprender novas tecnologias e colaborar em projetos desafiadores.
