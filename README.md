@@ -9,7 +9,7 @@
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 📚 Pós-graduação em DevOps & Arquitetura Cloud  
 
-Tenho mais de 3 anos de experiência com infraestrutura, atuando com automação, cloud e ambientes escaláveis.  
+Tenho mais de 4 anos de experiência com infraestrutura, atuando com automação, cloud e ambientes escaláveis.  
 Focado em **Kubernetes, Terraform, CI/CD e Observabilidade**, sempre buscando melhorar confiabilidade e performance dos sistemas.
 
 ---
